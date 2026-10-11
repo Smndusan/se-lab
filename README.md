@@ -1,3 +1,7 @@
+[![Java CI with Maven](https://github.com/Smndusan/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/Smndusan/se-lab/actions/workflows/maven.yml)
+[![License](https://img.shields.io/github/license/Smndusan/se-lab)](https://github.com/Smndusan/se-lab/blob/main/LICENSE)
+
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
